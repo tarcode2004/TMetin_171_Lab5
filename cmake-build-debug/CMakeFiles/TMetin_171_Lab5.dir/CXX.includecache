@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tarik/CLionProjects/TMetin_171_Lab5/weekdayOLIncrement.cpp
+weekdayOLIncrement.h
+/Users/tarik/CLionProjects/TMetin_171_Lab5/weekdayOLIncrement.h
+iostream
+-
+
+/Users/tarik/CLionProjects/TMetin_171_Lab5/weekdayOLIncrement.h
+string
+-
+
